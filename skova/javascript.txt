@@ -1,4 +1,0 @@
-function PlaySound()
-{
-    audio = new Audio 
-}
